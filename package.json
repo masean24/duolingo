@@ -1,0 +1,17 @@
+{
+  "name": "bot-duolinggo",
+  "version": "1.0.0",
+  "description": "Bot otomasi redeem kode promo Duolingo Super",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "@Drosek",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "puppeteer": "^21.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-real-browser": "^1.4.4"
+  }
+}
